@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MiAppMobile</string>
+    <string name="welcome">Bienvenido a mi APP</string>
+    <string name="hello_blank_fragment">Bienvenidos a mi APP</string>
+    <string name="registro_title">Registro</string>
+    <string name="registro_name">Nombre</string>
+    <string name="registro_appaterno">Apellido Paterno</string>
+    <string name="registro_email">Correo Electrónico</string>
+    <string name="registro_sexo">Sexo:</string>
+    <string name="registro_sexo_m">Mujer</string>
+    <string name="registro_sexo_h">Hombre</string>
+    <string name="registro_preferencias">Preferencias:</string>
+    <string name="registro_pref_musica">Música</string>
+    <string name="registro_pref_deportes">Deportes</string>
+    <string name="registro_pref_baile">Baile</string>
+    <string name="registro_pass">Contraseña</string>
+    <string name="registro_pass2">Repetir Contraseña</string>
+    <string name="registro_telefono">Teléfono</string>
+    <string name="registro_btn_registro">Registrar</string>
+    <string name="registro_btn_agregar">Agregar</string>
+</resources>
